@@ -9,7 +9,7 @@
 <div style="text-align:center;">
 
 # MuchScript
-https://muchscript.sblip.dev/
+[WEBSITE](https://svaltech.github.io/MuchScript/)
   
 Interpreter Programming Language made by SblipDev.
 Inspired by the DOGE meme.
@@ -93,3 +93,4 @@ If you want to use the scripting mode, make a new file with a .much extension an
 Feel free to contribute. Needs much help this project does.
 
 © MuchScript 2021 MIT License
+Made by SVALORDEV
